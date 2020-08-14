@@ -1,6 +1,9 @@
 ## 🍎 iOS Developer 
 
 ### Who I am ...
+
+김진향 | Kim Jinhyang
+
 👩‍🎓 School Of Computer Science at HGU Univ.  
 👩‍💻 Junior iOS Developer  
 <br/>  
