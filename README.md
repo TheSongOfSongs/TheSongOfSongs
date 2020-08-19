@@ -8,9 +8,6 @@
 👩‍💻 Junior iOS Developer  
 <br/>  
 
-### What I develop  ...
-🍏 iOS App - Xcode / Swift / Firebase  
-🕸 Web - Spring / Node.js / MySQL
 <br/>  
 <br/>  
 
