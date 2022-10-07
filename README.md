@@ -1,8 +1,3 @@
-<img width="800" alt="brave-1year-v1" src="https://user-images.githubusercontent.com/46002818/129906978-6228dc1f-b9bf-4cb5-9588-5f9a29f7a21e.png">
-
-
-  
-  
 ## 🍎 iOS Developer 
 
 ### Who I am ...
